@@ -173,4 +173,4 @@ if __name__ == '__main__':
             time.sleep(300)
         
         else:
-            time.sleep(300)
+            time.sleep(120)
